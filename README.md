@@ -3,8 +3,9 @@
 
 Исправлена пара мелких опечаток, убран titlesec для компилируемости в современном техе.
 
-Скомпилированный файл:
-https://github.com/bdemeshev/heller-math-tutorial/releases/download/v1.0-fenix/book.pdf
+Скомпилированные файлы:
+
+https://github.com/bdemeshev/heller-math-tutorial/releases/
 
 Блог heller.ru ныне не доступен, но можно прочесть его архивную копию на web.archive.org.
 
