@@ -7,4 +7,5 @@ book.synctex.gz
 book.toc
 book.fdb_latexmk
 book.fls
+book.xdv
 out.txt
